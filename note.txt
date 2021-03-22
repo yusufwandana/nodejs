@@ -1,0 +1,4 @@
+# Basic Express Contain : 
+1. Basic Routing
+2. Serving Static Files
+3. Sending Data to Views
